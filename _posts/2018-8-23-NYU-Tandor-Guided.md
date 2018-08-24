@@ -2,7 +2,7 @@
 layout: post
 title: "Guided"
 author: skielosky
-modified:
+modified: True
 excerpt: "Specialization."
 tags: []
 ---
