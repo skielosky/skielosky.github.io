@@ -37,18 +37,18 @@ Programming Assignment
 
 skielosky:
   name: Ezequiel Aguilar
-  web: http://thewhip.com
-  email: billy@rick.com
+  web: http://ezequielaguilar.com.pa
+  email: ezequiel.aguilarg@gmail.com
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: ezequiel-aguilar-gonzalez.png
-  twitter: extravagantman
+  twitter: eoaguilar
   google:
-    plus: BillyRick
+    plus: ezequiel
 
 
 {% endhighlight %}
 
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
+To assign Ezequiel as an author for our post. You'd add the following YAML front matter to a post:
 
 {% highlight yaml %}
 author: skielosky
