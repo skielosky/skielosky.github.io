@@ -40,7 +40,7 @@ skielosky:
   web: http://thewhip.com
   email: billy@rick.com
   bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: ../images/ezequiel-aguilar-gonzalez.png
+  avatar: ezequiel-aguilar-gonzalez.png
   twitter: extravagantman
   google:
     plus: BillyRick
@@ -51,5 +51,5 @@ skielosky:
 To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
 
 {% highlight yaml %}
-author: billy_rick
+author: skielosky
 {% endhighlight %}
