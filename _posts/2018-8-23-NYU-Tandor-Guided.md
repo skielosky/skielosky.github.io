@@ -2,7 +2,7 @@
 layout: post
 title: "Guided"
 author: skielosky
-modified: True
+modified: 2018-8-23
 excerpt: "Specialization."
 tags: []
 ---
