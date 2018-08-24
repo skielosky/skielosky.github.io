@@ -40,7 +40,7 @@ skielosky:
   web: http://thewhip.com
   email: billy@rick.com
   bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: ezequiel-aguilar-gonzalez.png
+  avatar: ../images/ezequiel-aguilar-gonzalez.png
   twitter: extravagantman
   google:
     plus: BillyRick
