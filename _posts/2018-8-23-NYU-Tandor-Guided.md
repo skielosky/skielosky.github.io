@@ -22,7 +22,7 @@ This course aims at providing an introductory and broad overview of the field of
 Certificate
 ==============
 
-![Certificate](ezequiel-aguilar-NYU-Tandon-guided-tour-of-machine-learning-in-finance.png)
+![Certificate](../images/ezequiel-aguilar-NYU-Tandon-guided-tour-of-machine-learning-in-finance.png)
 Verify at [coursera.org/verify/8859QRQETPV4](https://www.coursera.org/account/accomplishments/certificate/8859QRQETPV4)
 
 Programming Assignment
